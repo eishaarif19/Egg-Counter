@@ -10,7 +10,6 @@ This project is used to detect and count eggs with the opencv library.
   
 You can also adjust the radius and area from the settings page.
 
-
   <img src="https://github.com/harunozdemir/EggDetection/blob/master/master/Screen%20Shot%202018-10-26%20at%2017.26.54.png" height="500" >
   
 ## Description
@@ -39,8 +38,6 @@ You can also adjust the radius and area from the settings page.
   ```bash
   $ pip3 install pyqt5
   ```
-## Feedback
-Help / bug fix etc. Feel free to contact out via [Mail](mailto:harunozdmirr@gmail.com)
 
-## Author
+## Credits
 Harun Özdemir, harunozdmirr@gmail.com
